@@ -1,7 +1,7 @@
 # Awesome Mobile Edge AI System Research
 
 ## Conference
----
+
 ### Most-relevant conference
 - ACM ***MobiSys***
 - ACM ***MobiCom***
