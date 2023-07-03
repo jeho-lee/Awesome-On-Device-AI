@@ -27,6 +27,11 @@
 
 ### Papers
 ---
+[![](https://img.shields.io/badge/2023-MobiSys-orange)](https://www.sigmobile.org/mobisys/2023/)
+- NN-Stretch: Automatic Neural Network Branching for Parallel Inference on Heterogeneous Multi-Processors [[paper]](https://dl.acm.org/doi/pdf/10.1145/3472381.3479910)
+- HarvNet: Resource-Optimized Operation of Multi-Exit Deep Neural Networks on Energy Harvesting Devices
+ [[paper]](https://dl.acm.org/doi/pdf/10.1145/3581791.3596845)
+
 [![](https://img.shields.io/badge/2023-IPSN-yellow)](https://ipsn.acm.org/2023/)
 
 - POS: An Operator Scheduling Framework for Multi-model Inference on Edge Intelligent Computing [[paper]](https://dl.acm.org/doi/pdf/10.1145/3583120.3586953)
