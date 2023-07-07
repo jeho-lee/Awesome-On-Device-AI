@@ -1,4 +1,6 @@
-# Awesome Mobile Edge AI System Research
+# Awesome research works on *mobile edge AI systems*
+
+Along with the rapid development of AI and deep learning, DNN models have been widely used in various applications. However, the high computational comlexity of DNN models makes it difficult to deploy them on mobile and edge devices with limited computing resources. This repo collects the reasearch works aiming to develop a system that can efficiently execute DNN models on mobile and edge devices.
 
 ## Conference
 
