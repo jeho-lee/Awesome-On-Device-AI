@@ -36,15 +36,15 @@ DNN model pruning, quantization, compression, efficient ViT, etc. are the most p
 - [ICML 2023] Efficient Latency-Aware CNN Depth Compression via Two-Stage Dynamic Programming [[paper]](https://arxiv.org/abs/2301.12187) [[code]](https://github.com/snu-mllab/Efficient-CNN-Depth-Compression)
 - [NeurIPS 2022] Structural Pruning via Latency-Saliency Knapsack [[paper]](https://arxiv.org/abs/2210.06659) [[code]](https://github.com/NVlabs/HALP)
 
- 
+
 ### 2. Efficient Vision Transformer (ViT)
 - [ICCV 2023] Rethinking Vision Transformers for MobileNet Size and Speed [[paper]](https://arxiv.org/abs/2212.08059) [[code]](https://github.com/snap-research/EfficientFormer)
 - [ICCV 2023] EfficientViT: Multi-Scale Linear Attention for High-Resolution Dense Prediction [[paper]](https://arxiv.org/abs/2205.14756) [[code]](https://github.com/mit-han-lab/efficientvit)
 - [CVPR 2023] SparseViT: Revisiting Activation Sparsity for Efficient High-Resolution Vision Transformer [[paper]](https://arxiv.org/abs/2303.17605) [[code]](https://github.com/mit-han-lab/sparsevit)
-
+- [CVPR 2022 *Oral*] PoolFormer: MetaFormer Is Actually What You Need for Vision [[paper]](https://arxiv.org/abs/2111.11418) [[code]](https://github.com/sail-sg/poolformer)
 
 ### 3. Elastic Neural Networks
-- [CVPR 2023 Highlight] Stitchable Neural Networks [[paper]](https://arxiv.org/abs/2302.06586) [[code]](https://github.com/ziplab/SN-Net)
+- [CVPR 2023 *Highlight*] Stitchable Neural Networks [[paper]](https://arxiv.org/abs/2302.06586) [[code]](https://github.com/ziplab/SN-Net)
 
 
 ### 4. Efficient Neural Radiance Fields (NeRF)
