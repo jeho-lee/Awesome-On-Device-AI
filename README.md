@@ -38,6 +38,7 @@ DNN model pruning, quantization, compression, efficient ViT, etc. are the most p
 
 
 ### 2. Efficient Vision Transformer (ViT)
+- [ICLR 2023 top 5%] Token Merging: Your ViT but Faster [[paper]](https://arxiv.org/abs/2210.09461) [[code]](https://github.com/facebookresearch/ToMe)
 - [ICCV 2023] Rethinking Vision Transformers for MobileNet Size and Speed [[paper]](https://arxiv.org/abs/2212.08059) [[code]](https://github.com/snap-research/EfficientFormer)
 - [ICCV 2023] EfficientViT: Multi-Scale Linear Attention for High-Resolution Dense Prediction [[paper]](https://arxiv.org/abs/2205.14756) [[code]](https://github.com/mit-han-lab/efficientvit)
 - [CVPR 2023] SparseViT: Revisiting Activation Sparsity for Efficient High-Resolution Vision Transformer [[paper]](https://arxiv.org/abs/2303.17605) [[code]](https://github.com/mit-han-lab/sparsevit)
