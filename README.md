@@ -7,19 +7,22 @@ Along with the rapid development of AI and deep learning, DNN models have been w
 - Most-relevant conference: ACM ***MobiSys***, ACM ***MobiCom***, ACM ***Sensys***
 - Relevant conference: ACM ***EuroSys***, ACM ***IPSN***, USENIX ***NSDI***, USENIX ***ATC***, ***MLSys***, ***UbiComp***
 
-### 1. Parallel Inference on Heterogeneous Multi-Processors (e.g., CPU, GPU, NPU, etc.)
+### 1. Multi-DNN Inference
+- [Sensys 2023] Miriam: Exploiting Elastic Kernels for Real-time Multi-DNN Inference on Edge GPU [[paper (pre-print)]](https://arxiv.org/pdf/2307.04339.pdf)
+
+### 2. Parallel Inference on Heterogeneous Multi-Processors (e.g., CPU, GPU, NPU, etc.)
 - [MobiSys 2023] NN-Stretch: Automatic Neural Network Branching for Parallel Inference on Heterogeneous Multi-Processors [[paper]](https://dl.acm.org/doi/pdf/10.1145/3472381.3479910)
 - [MobiCom 2023] AdaptiveNet: Post-deployment Neural Architecture Adaptation for Diverse Edge Environments [[paper]](https://dl.acm.org/doi/pdf/10.1145/3570361.3592529)
 - [SenSys 2023] BlastNet: Exploiting Duo-Blocks for Cross-Processor Real-Time DNN Inference [[paper]](https://dl.acm.org/doi/pdf/10.1145/3560905.3568520)
 - [MobiSys 2022] Band: Coordinated Multi-DNN Inference on Heterogeneous Mobile Processors [[paper]](https://dl.acm.org/doi/pdf/10.1145/3498361.3538948)
 - [MobiSys 2022] CoDL: efficient CPU-GPU co-execution for deep learning inference on mobile devices [[paper]](https://dl.acm.org/doi/pdf/10.1145/3498361.3538932)
 
-### 2. Application-centric Approaches
+### 3. Application-centric Approaches
 - [MobiSys 2023] OmniLive: Super-Resolution Enhanced 360° Video Live Streaming for Mobile Devices
  [[paper]](https://dl.acm.org/doi/pdf/10.1145/3581791.3596851)
 - [IPSN 2023] PointSplit: Towards On-device 3D Object Detection with Heterogeneous Low-power Accelerators [[paper]](https://dl.acm.org/doi/pdf/10.1145/3583120.3587045)
 
-### 3. Server-Edge Collaborative Inference
+### 4. Server-Edge Collaborative Inference
 - [MobiCom 2023] AccuMO: Accuracy-Centric Multitask Offloading in Edge-Assisted Mobile Augmented Reality [[paper]](https://dl.acm.org/doi/pdf/10.1145/3570361.3592531)
 - [IPSN 2023] CoEdge: A Cooperative Edge System for Distributed Real-Time Deep Learning Tasks [[paper]](https://dl.acm.org/doi/pdf/10.1145/3583120.3586955)
 
