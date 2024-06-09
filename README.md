@@ -7,6 +7,7 @@
 ACM ***MobiSys***, ACM ***MobiCom***, ACM ***Sensys***, ACM ***EuroSys***, ACM ***IPSN***, USENIX ***NSDI***, USENIX ***ATC***, ***MLSys***
 
 #### Efficient Inference using Heterogeneous Processors (e.g., CPU, GPU, NPU, etc.)
+- [MobiSys 2024] Pantheon: Preemptible Multi-DNN Inference on Mobile Edge GPUs [[paper]](https://dl.acm.org/doi/pdf/10.1145/3643832.3661878)
 - [Sensys 2023] Miriam: Exploiting Elastic Kernels for Real-time Multi-DNN Inference on Edge GPU [[paper]](https://dl.acm.org/doi/10.1145/3625687.3625789)
 - [MobiSys 2023] NN-Stretch: Automatic Neural Network Branching for Parallel Inference on Heterogeneous Multi-Processors [[paper]](https://dl.acm.org/doi/pdf/10.1145/3472381.3479910)
 - [ATC 2023] Decentralized Application-Level Adaptive Scheduling for Multi-Instance DNNs on Open Mobile Devices [[paper]](https://www.usenix.org/system/files/atc23-sung.pdf)
@@ -43,6 +44,8 @@ ACM ***MobiSys***, ACM ***MobiCom***, ACM ***Sensys***, ACM ***EuroSys***, ACM *
 
 
 #### Server-Edge Collaborative Inference
+- [MobiSys 2024] ARISE: High-Capacity AR Offloading Inference Serving via Proactive Scheduling [[paper]](https://dl.acm.org/doi/10.1145/3643832.3661894)
+- [MobiSys 2024] CoActo: CoActive Neural Network Inference Offloading with Fine-grained and Concurrent Execution [[paper]](https://dl.acm.org/doi/10.1145/3643832.3661885)
 - [MobiCom 2023] AccuMO: Accuracy-Centric Multitask Offloading in Edge-Assisted Mobile Augmented Reality [[paper]](https://dl.acm.org/doi/pdf/10.1145/3570361.3592531)
 - [IPSN 2023] CoEdge: A Cooperative Edge System for Distributed Real-Time Deep Learning Tasks [[paper]](https://dl.acm.org/doi/pdf/10.1145/3583120.3586955)
 
