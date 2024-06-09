@@ -2,10 +2,9 @@
 
 ### Mobile Edge AI Systems
 
-Along with the rapid development of AI and deep learning, DNN models have been widely used in various applications. However, the high computational comlexity of DNN models makes it difficult to deploy them on mobile and edge devices with limited computing resources. This repo collects the research works presenting a system that can efficiently execute DNN models on mobile and edge devices.
+<!-- Along with the rapid development of AI and deep learning, DNN models have been widely used in various applications. However, the high computational comlexity of DNN models makes it difficult to deploy them on mobile and edge devices with limited computing resources. This repo collects the research works presenting a system that can efficiently execute DNN models on mobile and edge devices. -->
 
-- Most-relevant conference: ACM ***MobiSys***, ACM ***MobiCom***, ACM ***Sensys***
-- Relevant conference: ACM ***EuroSys***, ACM ***IPSN***, USENIX ***NSDI***, USENIX ***ATC***, ***MLSys***
+ACM ***MobiSys***, ACM ***MobiCom***, ACM ***Sensys***, ACM ***EuroSys***, ACM ***IPSN***, USENIX ***NSDI***, USENIX ***ATC***, ***MLSys***
 
 #### Efficient Inference using Heterogeneous Processors (e.g., CPU, GPU, NPU, etc.)
 - [Sensys 2023] Miriam: Exploiting Elastic Kernels for Real-time Multi-DNN Inference on Edge GPU [[paper]](https://dl.acm.org/doi/10.1145/3625687.3625789)
@@ -48,12 +47,9 @@ Along with the rapid development of AI and deep learning, DNN models have been w
 - [IPSN 2023] CoEdge: A Cooperative Edge System for Distributed Real-Time Deep Learning Tasks [[paper]](https://dl.acm.org/doi/pdf/10.1145/3583120.3586955)
 
 
----
-
-
 ### Efficient AI methods
-DNN model pruning, quantization, compression, efficient ViT, etc. are the most popular methods to reduce the computational complexity of DNN models. This repo collects the research works presenting efficient AI methods.
-- Relevant conference: ***CVPR***, ***ICLR***, ***NeurIPS***, ***ICML***, ***ICCV***, ***ECCV***, ***AAAI***
+<!-- DNN model pruning, quantization, compression, efficient ViT, etc. are the most popular methods to reduce the computational complexity of DNN models. This repo collects the research works presenting efficient AI methods. -->
+***CVPR***, ***ICLR***, ***NeurIPS***, ***ICML***, ***ICCV***, ***ECCV***, ***AAAI***
   
 #### Pruning and Compression
 - [CVPR 2023] DepGraph: Towards Any Structural Pruning [[paper]](https://arxiv.org/abs/2301.12900) [[code]](https://github.com/VainF/Torch-Pruning)
@@ -69,7 +65,3 @@ DNN model pruning, quantization, compression, efficient ViT, etc. are the most p
 
 #### Elastic Neural Networks
 - [CVPR 2023 *Highlight*] Stitchable Neural Networks [[paper]](https://arxiv.org/abs/2302.06586) [[code]](https://github.com/ziplab/SN-Net)
-
-#### Efficient Neural Radiance Fields (NeRF)
-- [CVPR 2023] Real-Time Neural Light Field on Mobile Devices [[paper]](https://arxiv.org/abs/2212.08057) [[code]](https://github.com/snap-research/MobileR2L)
-- [ECCV 2022] R2L: Distilling Neural Radiance Field to Neural Light Field for Efficient Novel View Synthesis [[paper]](https://arxiv.org/abs/2203.17261) [[code]](https://github.com/snap-research/R2L)
