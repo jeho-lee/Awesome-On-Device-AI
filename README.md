@@ -16,10 +16,6 @@ ACM ***MobiSys***, ACM ***MobiCom***, ACM ***Sensys***, ACM ***EuroSys***, ACM *
 - [MobiSys 2022] CoDL: efficient CPU-GPU co-execution for deep learning inference on mobile devices [[paper]](https://dl.acm.org/doi/pdf/10.1145/3498361.3538932)
 - [MobiCom 2020] Heimdall: Mobile GPU Coordination Platform for Augmented Reality Applicationss [[paper]](https://dl.acm.org/doi/10.1145/3372224.3419192)  
 
-
-#### On-device LLM/NLP
-- [MobiCom 2024] Mobile Foundation Model as Firmware [[paper]](https://arxiv.org/pdf/2308.14363) [[code]](https://github.com/UbiquitousLearning/MobileFM)
-
 #### On-device Training, Model Adaptation
 - [MobiCom 2023] Cost-effective On-device Continual Learning over Memory Hierarchy with Miro [[paper]](https://dl.acm.org/doi/pdf/10.1145/3570361.3613297)
 - [MobiCom 2023] AdaptiveNet: Post-deployment Neural Architecture Adaptation for Diverse Edge Environments [[paper]](https://dl.acm.org/doi/pdf/10.1145/3570361.3592529)
@@ -28,13 +24,8 @@ ACM ***MobiSys***, ACM ***MobiCom***, ACM ***Sensys***, ACM ***EuroSys***, ACM *
 - [MobiCom 2022] Mandheling: mixed-precision on-device DNN training with DSP offloading [[paper]](https://dl.acm.org/doi/abs/10.1145/3495243.3560545)
 - [MobiSys 2022] Memory-efficient DNN training on mobile devices [[paper]](https://dl.acm.org/doi/abs/10.1145/3498361.3539765)
 
-#### Profilers
-- [SenSys 2023] nnPerf: Demystifying DNN Runtime Inference Latency on Mobile Platforms [[paper]](https://dl.acm.org/doi/10.1145/3625687.3625797)
-- [MobiSys 2021] nn-Meter: towards accurate latency prediction of deep-learning model inference on diverse edge devices [[paper]](https://dl.acm.org/doi/10.1145/3458864.3467882)
-
 #### Application-centric Approaches
-- [MobiSys 2023] OmniLive: Super-Resolution Enhanced 360° Video Live Streaming for Mobile Devices
- [[paper]](https://dl.acm.org/doi/pdf/10.1145/3581791.3596851)
+- [MobiSys 2023] OmniLive: Super-Resolution Enhanced 360° Video Live Streaming for Mobile Devices [[paper]](https://dl.acm.org/doi/pdf/10.1145/3581791.3596851)
 - [IPSN 2023] PointSplit: Towards On-device 3D Object Detection with Heterogeneous Low-power Accelerators [[paper]](https://dl.acm.org/doi/pdf/10.1145/3583120.3587045)
 - [MobiCom 2022] MobiDepth: real-time depth estimation using on-device dual cameras [[paper]](https://dl.acm.org/doi/10.1145/3495243.3560517)
 - [MobiSys 2022] DeepMix: Mobility-aware, Lightweight, and Hybrid 3D Object Detection for Headsets [[paper]](https://doi.org/10.1145/3498361.3538945)
@@ -42,13 +33,18 @@ ACM ***MobiSys***, ACM ***MobiCom***, ACM ***Sensys***, ACM ***EuroSys***, ACM *
 - [MobiCom 2020] EagleEye: Wearable Camera-based Person Identification in Crowded Urban Spaces [[paper]](https://dl.acm.org/doi/10.1145/3372224.3380881)
 - [MobiCom 2020] NEMO: Enabling Neural-enhanced Video Streaming on Commodity Mobile Devices [[paper]](https://dl.acm.org/doi/10.1145/3372224.3419185)
 
-
 #### Server-Edge Collaborative Inference
 - [MobiSys 2024] ARISE: High-Capacity AR Offloading Inference Serving via Proactive Scheduling [[paper]](https://dl.acm.org/doi/10.1145/3643832.3661894)
 - [MobiSys 2024] CoActo: CoActive Neural Network Inference Offloading with Fine-grained and Concurrent Execution [[paper]](https://dl.acm.org/doi/10.1145/3643832.3661885)
 - [MobiCom 2023] AccuMO: Accuracy-Centric Multitask Offloading in Edge-Assisted Mobile Augmented Reality [[paper]](https://dl.acm.org/doi/pdf/10.1145/3570361.3592531)
 - [IPSN 2023] CoEdge: A Cooperative Edge System for Distributed Real-Time Deep Learning Tasks [[paper]](https://dl.acm.org/doi/pdf/10.1145/3583120.3586955)
 
+#### On-device LLM/NLP
+- [MobiCom 2024] Mobile Foundation Model as Firmware [[paper]](https://arxiv.org/pdf/2308.14363) [[code]](https://github.com/UbiquitousLearning/MobileFM)
+
+#### Profilers
+- [SenSys 2023] nnPerf: Demystifying DNN Runtime Inference Latency on Mobile Platforms [[paper]](https://dl.acm.org/doi/10.1145/3625687.3625797)
+- [MobiSys 2021] nn-Meter: towards accurate latency prediction of deep-learning model inference on diverse edge devices [[paper]](https://dl.acm.org/doi/10.1145/3458864.3467882)
 
 ### Efficient AI methods
 <!-- DNN model pruning, quantization, compression, efficient ViT, etc. are the most popular methods to reduce the computational complexity of DNN models. This repo collects the research works presenting efficient AI methods. -->
