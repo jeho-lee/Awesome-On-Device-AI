@@ -1,5 +1,7 @@
 # Awesome research works for On-device AI
 
+A curated list of research works on mobile and edge AI systems, efficient AI methods, and applications.
+
 ### Mobile Edge AI Systems
 
 <!-- Along with the rapid development of AI and deep learning, DNN models have been widely used in various applications. However, the high computational comlexity of DNN models makes it difficult to deploy them on mobile and edge devices with limited computing resources. This repo collects the research works presenting a system that can efficiently execute DNN models on mobile and edge devices. -->
@@ -50,6 +52,13 @@ ACM ***MobiSys***, ACM ***MobiCom***, ACM ***Sensys***, ACM ***EuroSys***, ACM *
 <!-- DNN model pruning, quantization, compression, efficient ViT, etc. are the most popular methods to reduce the computational complexity of DNN models. This repo collects the research works presenting efficient AI methods. -->
 ***CVPR***, ***ICLR***, ***NeurIPS***, ***ICML***, ***ICCV***, ***ECCV***, ***AAAI***
   
+#### Efficient LLM/VLMs
+- [ICML 2024] MobileLLM: Optimizing Sub-billion Parameter Language Models for On-Device Use Cases [[paper]](https://arxiv.org/pdf/2402.14905) [[code]](https://github.com/facebookresearch/MobileLLM)
+- [arXiv 2023] MobileVLM: A Fast, Strong and Open Vision Language Assistant for Mobile Devices [[paper]](https://arxiv.org/abs/2312.16886) [[code]](https://github.com/Meituan-AutoML/MobileVLM?tab=readme-ov-file)
+
+#### Quantization
+- [MLSys 2024 *Best Paper*] AWQ: Activation-aware Weight Quantization for On-Device LLM Compression and Acceleration [[paper]](https://arxiv.org/pdf/2306.00978) [[code]](https://github.com/mit-han-lab/llm-awq)
+
 #### Pruning and Compression
 - [CVPR 2023] DepGraph: Towards Any Structural Pruning [[paper]](https://arxiv.org/abs/2301.12900) [[code]](https://github.com/VainF/Torch-Pruning)
 - [ICML 2023] Efficient Latency-Aware CNN Depth Compression via Two-Stage Dynamic Programming [[paper]](https://arxiv.org/abs/2301.12187) [[code]](https://github.com/snu-mllab/Efficient-CNN-Depth-Compression)
