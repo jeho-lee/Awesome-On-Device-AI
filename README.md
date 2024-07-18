@@ -51,7 +51,11 @@ ACM ***MobiSys***, ACM ***MobiCom***, ACM ***Sensys***, ACM ***EuroSys***, ACM *
 ### Efficient AI methods
 <!-- DNN model pruning, quantization, compression, efficient ViT, etc. are the most popular methods to reduce the computational complexity of DNN models. This repo collects the research works presenting efficient AI methods. -->
 ***CVPR***, ***ICLR***, ***NeurIPS***, ***ICML***, ***ICCV***, ***ECCV***, ***AAAI***
-  
+
+#### Elastic Neural Networks
+- [ICML 2024] FLEXTRON: Many-in-One Flexible Large Language Model [[paper]](https://arxiv.org/pdf/2406.10260)
+- [CVPR 2023 *Highlight*] Stitchable Neural Networks [[paper]](https://arxiv.org/abs/2302.06586) [[code]](https://github.com/ziplab/SN-Net)  
+
 #### Efficient LLM/VLMs
 - [ICML 2024] MobileLLM: Optimizing Sub-billion Parameter Language Models for On-Device Use Cases [[paper]](https://arxiv.org/pdf/2402.14905) [[code]](https://github.com/facebookresearch/MobileLLM)
 - [arXiv 2023] MobileVLM: A Fast, Strong and Open Vision Language Assistant for Mobile Devices [[paper]](https://arxiv.org/abs/2312.16886) [[code]](https://github.com/Meituan-AutoML/MobileVLM?tab=readme-ov-file)
@@ -70,6 +74,3 @@ ACM ***MobiSys***, ACM ***MobiCom***, ACM ***Sensys***, ACM ***EuroSys***, ACM *
 - [ICCV 2023] EfficientViT: Multi-Scale Linear Attention for High-Resolution Dense Prediction [[paper]](https://arxiv.org/abs/2205.14756) [[code]](https://github.com/mit-han-lab/efficientvit)
 - [CVPR 2023] SparseViT: Revisiting Activation Sparsity for Efficient High-Resolution Vision Transformer [[paper]](https://arxiv.org/abs/2303.17605) [[code]](https://github.com/mit-han-lab/sparsevit)
 - [CVPR 2022 *Oral*] PoolFormer: MetaFormer Is Actually What You Need for Vision [[paper]](https://arxiv.org/abs/2111.11418) [[code]](https://github.com/sail-sg/poolformer)
-
-#### Elastic Neural Networks
-- [CVPR 2023 *Highlight*] Stitchable Neural Networks [[paper]](https://arxiv.org/abs/2302.06586) [[code]](https://github.com/ziplab/SN-Net)
