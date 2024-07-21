@@ -9,14 +9,12 @@ A curated list of research works on mobile and edge AI systems, efficient AI met
 ACM ***MobiSys***, ACM ***MobiCom***, ACM ***Sensys***, ACM ***EuroSys***, ACM ***IPSN***, USENIX ***NSDI***, USENIX ***ATC***, ***MLSys***
 
 #### Efficient Inference using Heterogeneous Processors (e.g., CPU, GPU, NPU, etc.)
-- [MobiSys 2024] Pantheon: Preemptible Multi-DNN Inference on Mobile Edge GPUs [[paper]](https://dl.acm.org/doi/pdf/10.1145/3643832.3661878)
 - [Sensys 2023] Miriam: Exploiting Elastic Kernels for Real-time Multi-DNN Inference on Edge GPU [[paper]](https://dl.acm.org/doi/10.1145/3625687.3625789)
 - [MobiSys 2023] NN-Stretch: Automatic Neural Network Branching for Parallel Inference on Heterogeneous Multi-Processors [[paper]](https://dl.acm.org/doi/pdf/10.1145/3472381.3479910)
 - [ATC 2023] Decentralized Application-Level Adaptive Scheduling for Multi-Instance DNNs on Open Mobile Devices [[paper]](https://www.usenix.org/system/files/atc23-sung.pdf)
 - [SenSys 2022] BlastNet: Exploiting Duo-Blocks for Cross-Processor Real-Time DNN Inference [[paper]](https://dl.acm.org/doi/pdf/10.1145/3560905.3568520)
 - [MobiSys 2022] Band: Coordinated Multi-DNN Inference on Heterogeneous Mobile Processors [[paper]](https://dl.acm.org/doi/pdf/10.1145/3498361.3538948)
 - [MobiSys 2022] CoDL: efficient CPU-GPU co-execution for deep learning inference on mobile devices [[paper]](https://dl.acm.org/doi/pdf/10.1145/3498361.3538932)
-- [MobiCom 2020] Heimdall: Mobile GPU Coordination Platform for Augmented Reality Applicationss [[paper]](https://dl.acm.org/doi/10.1145/3372224.3419192)  
 
 #### On-device Training, Model Adaptation
 - [MobiCom 2023] Cost-effective On-device Continual Learning over Memory Hierarchy with Miro [[paper]](https://dl.acm.org/doi/pdf/10.1145/3570361.3613297)
@@ -29,19 +27,17 @@ ACM ***MobiSys***, ACM ***MobiCom***, ACM ***Sensys***, ACM ***EuroSys***, ACM *
 #### Application-centric Approaches
 - [MobiSys 2023] OmniLive: Super-Resolution Enhanced 360° Video Live Streaming for Mobile Devices [[paper]](https://dl.acm.org/doi/pdf/10.1145/3581791.3596851)
 - [IPSN 2023] PointSplit: Towards On-device 3D Object Detection with Heterogeneous Low-power Accelerators [[paper]](https://dl.acm.org/doi/pdf/10.1145/3583120.3587045)
-- [MobiCom 2022] MobiDepth: real-time depth estimation using on-device dual cameras [[paper]](https://dl.acm.org/doi/10.1145/3495243.3560517)
+- [MobiCom 2022] MobiDepth: Real-time Depth Estimation using On-device Dual Cameras [[paper]](https://dl.acm.org/doi/10.1145/3495243.3560517)
 - [MobiSys 2022] DeepMix: Mobility-aware, Lightweight, and Hybrid 3D Object Detection for Headsets [[paper]](https://doi.org/10.1145/3498361.3538945)
 - [MobiCom 2021] Flexible high-resolution object detection on edge devices with tunable latency [[paper]](https://dl.acm.org/doi/abs/10.1145/3447993.3483274)
 - [MobiCom 2020] EagleEye: Wearable Camera-based Person Identification in Crowded Urban Spaces [[paper]](https://dl.acm.org/doi/10.1145/3372224.3380881)
-- [MobiCom 2020] NEMO: Enabling Neural-enhanced Video Streaming on Commodity Mobile Devices [[paper]](https://dl.acm.org/doi/10.1145/3372224.3419185)
 
 #### Server-Edge Collaborative Inference
 - [MobiSys 2024] ARISE: High-Capacity AR Offloading Inference Serving via Proactive Scheduling [[paper]](https://dl.acm.org/doi/10.1145/3643832.3661894)
 - [MobiSys 2024] CoActo: CoActive Neural Network Inference Offloading with Fine-grained and Concurrent Execution [[paper]](https://dl.acm.org/doi/10.1145/3643832.3661885)
 - [MobiCom 2023] AccuMO: Accuracy-Centric Multitask Offloading in Edge-Assisted Mobile Augmented Reality [[paper]](https://dl.acm.org/doi/pdf/10.1145/3570361.3592531)
-- [IPSN 2023] CoEdge: A Cooperative Edge System for Distributed Real-Time Deep Learning Tasks [[paper]](https://dl.acm.org/doi/pdf/10.1145/3583120.3586955)
 
-#### On-device LLM/NLP
+#### On-device LLM
 - [MobiCom 2024] Mobile Foundation Model as Firmware [[paper]](https://arxiv.org/pdf/2308.14363) [[code]](https://github.com/UbiquitousLearning/MobileFM)
 
 #### Profilers
