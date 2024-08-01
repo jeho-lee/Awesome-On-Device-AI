@@ -26,6 +26,7 @@ ACM ***MobiSys***, ACM ***MobiCom***, ACM ***Sensys***, ACM ***EuroSys***, ACM *
 
 #### Application-centric Approaches
 - [MobiSys 2023] OmniLive: Super-Resolution Enhanced 360° Video Live Streaming for Mobile Devices [[paper]](https://dl.acm.org/doi/pdf/10.1145/3581791.3596851)
+- [MobiSys 2023] HarvNet: Resource-Optimized Operation of Multi-Exit Deep Neural Networks on Energy Harvesting Devices [[paper]](https://dl.acm.org/doi/abs/10.1145/3581791.3596845)
 - [IPSN 2023] PointSplit: Towards On-device 3D Object Detection with Heterogeneous Low-power Accelerators [[paper]](https://dl.acm.org/doi/pdf/10.1145/3583120.3587045)
 - [MobiCom 2022] MobiDepth: Real-time Depth Estimation using On-device Dual Cameras [[paper]](https://dl.acm.org/doi/10.1145/3495243.3560517)
 - [MobiSys 2022] DeepMix: Mobility-aware, Lightweight, and Hybrid 3D Object Detection for Headsets [[paper]](https://doi.org/10.1145/3498361.3538945)
@@ -38,6 +39,7 @@ ACM ***MobiSys***, ACM ***MobiCom***, ACM ***Sensys***, ACM ***EuroSys***, ACM *
 - [MobiCom 2023] AccuMO: Accuracy-Centric Multitask Offloading in Edge-Assisted Mobile Augmented Reality [[paper]](https://dl.acm.org/doi/pdf/10.1145/3570361.3592531)
 
 #### On-device LLM
+- [MobiCom 2024] MELTing point: Mobile Evaluation of Language Transformers [[paper]](https://arxiv.org/abs/2403.12844) [[code]](https://github.com/brave-experiments/MELT-public)
 - [MobiCom 2024] Mobile Foundation Model as Firmware [[paper]](https://arxiv.org/pdf/2308.14363) [[code]](https://github.com/UbiquitousLearning/MobileFM)
 
 #### Profilers
