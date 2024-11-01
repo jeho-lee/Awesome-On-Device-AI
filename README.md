@@ -1,12 +1,12 @@
-# Awesome research works for On-device AI
+# Awesome research works for Efficient AI
 
-A curated list of research works on mobile and edge AI systems, efficient AI methods, and applications.
+A curated list of research works on efficient AI systems, methods, and applications.
 
-### Mobile Edge AI Systems
+### Efficient AI Systems on Mobile and Edge Devices
 
 <!-- Along with the rapid development of AI and deep learning, DNN models have been widely used in various applications. However, the high computational comlexity of DNN models makes it difficult to deploy them on mobile and edge devices with limited computing resources. This repo collects the research works presenting a system that can efficiently execute DNN models on mobile and edge devices. -->
 
-ACM ***MobiSys***, ACM ***MobiCom***, ACM ***Sensys***, ACM ***EuroSys***, ACM ***IPSN***, USENIX ***NSDI***, USENIX ***ATC***, ***MLSys***
+ACM ***MobiSys***, ACM ***MobiCom***, ACM ***Sensys***, ACM ***EuroSys***, ACM ***IPSN***, ACM ***ASPLOS***, USENIX ***NSDI***, USENIX ***ATC***, ***MLSys***, ...
 
 #### Efficient Inference using Heterogeneous Processors (e.g., CPU, GPU, NPU, etc.)
 - [Sensys 2023] Miriam: Exploiting Elastic Kernels for Real-time Multi-DNN Inference on Edge GPU [[paper]](https://dl.acm.org/doi/10.1145/3625687.3625789)
@@ -18,16 +18,20 @@ ACM ***MobiSys***, ACM ***MobiCom***, ACM ***Sensys***, ACM ***EuroSys***, ACM *
 - [MobiSys 2022] CoDL: efficient CPU-GPU co-execution for deep learning inference on mobile devices [[paper]](https://dl.acm.org/doi/pdf/10.1145/3498361.3538932)
 
 #### Adaptive Inference for Optimized Resource Utilization
+- [MobiCom 2024] Panopticus: Omnidirectional 3D Object Detection on Resource-constrained Edge Devices [[paper]](https://arxiv.org/pdf/2410.01270)
 - [MobiSys 2023] OmniLive: Super-Resolution Enhanced 360° Video Live Streaming for Mobile Devices [[paper]](https://dl.acm.org/doi/pdf/10.1145/3581791.3596851)
 - [MobiSys 2023] HarvNet: Resource-Optimized Operation of Multi-Exit Deep Neural Networks on Energy Harvesting Devices [[paper]](https://dl.acm.org/doi/abs/10.1145/3581791.3596845)
 - [MobiCom 2022] NeuLens: Spatial-based Dynamic Acceleration of Convolutional Neural Networks on Edge [[paper]](https://dl.acm.org/doi/pdf/10.1145/3495243.3560528)
 - [MobiCom 2021] Flexible high-resolution object detection on edge devices with tunable latency [[paper]](https://dl.acm.org/doi/abs/10.1145/3447993.3483274)
 
 #### On-device LLM
+- [ASPLOS 2025] Empowering 1000 tokens/second on-deviceLLM prefilling with mllm-NPU [[paper]](https://arxiv.org/pdf/2407.05858) [[code]](https://github.com/UbiquitousLearning/mllm)
 - [MobiCom 2024] MELTing point: Mobile Evaluation of Language Transformers [[paper]](https://arxiv.org/abs/2403.12844) [[code]](https://github.com/brave-experiments/MELT-public)
 - [MobiCom 2024] Mobile Foundation Model as Firmware [[paper]](https://arxiv.org/pdf/2308.14363) [[code]](https://github.com/UbiquitousLearning/MobileFM)
 
 #### On-device Training, Model Adaptation
+- [SenSys 2024] AdaShadow: Responsive Test-time Model Adaptation in Non-stationary Mobile Environments [[paper]](https://arxiv.org/pdf/2410.08256)
+- [SenSys 2023] EdgeFM: Leveraging Foundation Model for Open-set Learning on the Edge [[paper]](https://dl.acm.org/doi/10.1145/3625687.3625793)
 - [MobiCom 2023] Cost-effective On-device Continual Learning over Memory Hierarchy with Miro [[paper]](https://dl.acm.org/doi/pdf/10.1145/3570361.3613297)
 - [MobiCom 2023] AdaptiveNet: Post-deployment Neural Architecture Adaptation for Diverse Edge Environments [[paper]](https://dl.acm.org/doi/pdf/10.1145/3570361.3592529)
 - [MobiSys 2023] ElasticTrainer: Speeding Up On-Device Training with Runtime Elastic Tensor Selection [[paper]](https://dl.acm.org/doi/pdf/10.1145/3581791.3596852)
